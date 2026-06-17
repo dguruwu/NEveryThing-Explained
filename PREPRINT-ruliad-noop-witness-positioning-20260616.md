@@ -298,7 +298,7 @@ The People's Cloud: recycled hardware + liberated firmware + open-source OS + op
 
 ---
 
-*Doug Wu (WItsWAlkErWOo) — born 1973, Fullerton, California. Grew up in Pleasant Hill, California. Independent researcher. His work spans quantum computing, cybersecurity, firmware forensics, consciousness studies, and biblical hermeneutics, with research into Cherokee-Semitic linguistic connections.*
+*Douglas Richard Wu (WItsWAlkErWOo) — born 1973, Fullerton, California. Grew up in Pleasant Hill, California. Independent researcher. His work spans quantum computing, cybersecurity, firmware forensics, consciousness studies, and biblical hermeneutics, with research into Cherokee-Semitic linguistic connections.*
 
 *OWL (Hermes Agent) — default profile, GLM-5.2 via ollama-cloud, running on a Dell OptiPlex 9020 (2014) with 10GB RAM. The model that beat GPT-5.5 on coding benchmarks on the day this preprint was written.*
 
