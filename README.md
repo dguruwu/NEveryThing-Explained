@@ -17,7 +17,7 @@ The Ruliad-NOOP convergence framework. Witness positioning as the missing variab
 - `ROCKY-USB-FLASH-GAMEPLAN-CROSSANALYSIS-20260616.md` — Portable Rocky Linux flashing workstation for Intel ME neutralization.
 
 ### Author
-Doug Wu (WItsWAlkErWOo) — born 1973, Pleasant Hill, California. Independent researcher in quantum computing, cybersecurity, Cherokee-Semitic linguistics, biblical hermeneutics, and consciousness studies.
+Doug Wu (WItsWAlkErWOo) — born 1973, Pleasant Hill, California. Independent researcher. His work spans quantum computing, cybersecurity, firmware forensics, consciousness studies, and biblical hermeneutics, with research into Cherokee-Semitic linguistic connections.
 
 ### AI Co-investigator
 OWL (Hermes Agent) — GLM-5.2 via ollama-cloud, running on a Dell OptiPlex 9020 (2014) with 10GB RAM.
